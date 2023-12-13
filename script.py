@@ -1,2 +1,2 @@
-print("boom")
+print("hei")
 
